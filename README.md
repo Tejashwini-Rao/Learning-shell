@@ -1,3 +1,3 @@
 # Learning-shell
 ##Let's learn shell scripting
-What is a shell
+ 1.What is a shell
